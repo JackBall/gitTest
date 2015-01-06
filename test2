@@ -12,3 +12,6 @@ mac系统如何显示和隐藏文件
 隐藏Mac隐藏文件的命令：defaults write com.apple.finder AppleShowAllFiles  NO
 
 输完单击Enter键，退出终端，重新启动Finder就可以了
+
+
+进行对应的处理 测试一
